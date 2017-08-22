@@ -1,2 +1,5 @@
 # orlandogophers
-repository of Go programming challenges for the Orlando Gophers Meetups
+repository of Go programming challenges for the [Orlando Gophers Meetup](https://www.meetup.com/OrlandoGophers/)
+
+
+
